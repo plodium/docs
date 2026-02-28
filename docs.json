@@ -29,9 +29,7 @@
         "groups": [
           {
             "group": "Coming Soon",
-            "pages": [
-              "index"
-            ]
+            "pages": []
           }
         ]
       }
