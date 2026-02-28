@@ -68,6 +68,6 @@
     "weight": 600
   },
   "appearance": {
-    "default": "light"
+    "default": "system"
   }
 }
