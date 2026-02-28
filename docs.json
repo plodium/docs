@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "almond",
   "name": "Plodium Documentation",
   "colors": {
     "primary": "#034bff",
