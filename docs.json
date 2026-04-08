@@ -42,7 +42,12 @@
       },
       {
         "tab": "Account & Billing Portal",
-        "groups": ["portal/get-started"]
+        "groups":[
+          {
+          "group": "Overview",
+          "pages": ["portal/get-started"]
+          }
+        ] 
       }
     ]
   },
