@@ -48,6 +48,15 @@
           "pages": ["portal/get-started"]
           }
         ] 
+      },
+      {
+        "tab": "Games",
+        "groups":[
+          {
+          "group": "Overview",
+          "pages": ["games/get-started"]
+          }
+        ] 
       }
     ]
   },
