@@ -5,7 +5,32 @@
   "colors": {
     "primary": "#034bff",
     "light": "#034bff",
-    "dark": "#e9e9f4"
+    "dark": "#034bff"
+  },
+  "seo": {
+    "metatags": {
+      "theme-color": "#034bff",
+      "description": "The official Plodium help desk.",
+      "keywords": "plodium, plodium cloud, hytale server hosting, hytale beta servers, hytale multiplayer, hytale modding, hytale scripts, hytale creator tools, hytale adventure mode, hytale vps, hytale dedicated resources, minecraft server hosting, mc hosting, minecraft smp, paper mc, spigot, purpur, bungeecord, velocity proxy, forge hosting, fabric hosting, modded minecraft, pixelmon servers, skyblock hosting, factions server, anarchy mc, geysermc, bedrock edition, java edition, 24/7 minecraft, no lag mc, mcpe hosting, rust server rental, 128 tick rust, rust oxide, umod, rust plugins, facepunch servers, terraria hosting, tmodloader, valheim server, palworld hosting, enshrouded, project zomboid, garry's mod, gmod hosting, cs2 server, counter-strike 2, lethal company server, ryzen 9 7950x, ryzen 9 9950x, intel core i9 14900k, ddr5 ram, nvme gen4 ssd, enterprise ssd, high clock speed, low latency, low ping, anycast network, ddos protection, path.net, cosmicguard, layer 7 protection, 1gbps uplink, london hosting, new york hosting, frankfurt servers, singapore hosting, sydney servers, pterodactyl panel, game control panel, sftp access, mysql databases, automated backups, instant setup, affordable hosting, cheap game servers, pay per gb, scalable hosting, premium hosting, zero downtime, worldwide servers, mod support, plugin support, lag free, 24/7 support, affordable pricing, cheap root servers, ultra fast, high performance, reliable servers, dedicated resources, easy control panel, game hosting, server rental, high tps, high fps servers, gaming vps, bare metal gaming, dedicated threads, no overselling, gaming infrastructure, cloud gaming, plodium reviews, plodium discount, best game host 2026",
+      "robots": "index, follow",
+      "author": "Plodium Cloud",
+      "canonical": "https://docs.plodium.com/",
+      
+      "og:title": "Plodium Documentation",
+      "og:description": "The official Plodium help desk.",
+      "og:type": "website",
+      "og:url": "https://docs.plodium.com/",
+      "og:image:alt": "Plodium Documentation",
+      "og:image": "https://docs.plodium.com/branding/banners/Concept-4.png",
+      "og:site_name": "Plodium",
+      "og:color": "#034bff",
+      
+      "twitter:domain": "docs.plodium.com",
+      "twitter:url": "https://docs.plodium.com/branding/banners/Concept-4.png",
+      "twitter:title": "Plodium Documentation",
+      "twitter:description": "The official Plodium help desk.",
+      "twitter:image": "https://docs.plodium.com/branding/banners/Concept-4.png"
+    }
   },
   "favicon": "/branding/designs/Concept-Rounded-1.png",
   "navigation": {
