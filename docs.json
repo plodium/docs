@@ -39,6 +39,10 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Account & Billing Portal",
+        "groups": ["portal/get-started"]
       }
     ]
   },
