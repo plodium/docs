@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "palm",
+  "theme": "maple",
   "name": "Plodium Documentation",
   "colors": {
     "primary": "#034bff",
@@ -12,14 +12,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Network Status",
-          "icon": "network-wired",
-          "href": "https://status.plodium.com"
+          "anchor": "Website",
+          "icon": "globe",
+          "href": "https://plodium.com/"
         },
         {
           "anchor": "Billing Portal",
           "icon": "money-bill-1-wave",
           "href": "https://billing.plodium.com/"
+        },
+        {
+          "anchor": "Network Status",
+          "icon": "network-wired",
+          "href": "https://status.plodium.com"
         }
       ]
     },
